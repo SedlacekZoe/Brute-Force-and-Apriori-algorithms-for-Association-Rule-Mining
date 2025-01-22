@@ -1,4 +1,4 @@
-#Brute Force & Apriori algorithms for Association Rule Mining--Implementation and Comparison
+# Brute Force & Apriori algorithms for Association Rule Mining--Implementation and Comparison
 
 Midterm project submission for CS 634--Data Mining at NJIT, Fall 24, by Zoe Sedlacek
 
