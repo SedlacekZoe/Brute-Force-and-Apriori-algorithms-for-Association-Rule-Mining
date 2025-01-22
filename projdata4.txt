@@ -1,0 +1,20 @@
+Chocolate Bar,Gummy Bears,Hard Candy,Lollipops,Sour Candy
+Licorice,Jelly Beans,Candy Corn,Mints,Taffy
+Caramel,Marshmallows,Cotton Candy,Fruit Chews,Chocolate Covered Nuts
+Toffee,Chocolate-Covered Pretzels,Fudge,Peanut Butter Cups,Rice Crispy Treats
+Bonbons,Candy Necklace,Spicy Candy,Bubblegum
+Chocolate-Covered Fruit,Sugar-Free Candy,Chocolate Truffles,Whirly Pop,Almond Joy
+Swedish Fish,Chocolate Bar,Gummy Bears,Hard Candy,Lollipops
+Sour Candy,Licorice,Jelly Beans,Candy Corn,Mints
+Taffy,Caramel,Marshmallows,Cotton Candy,Fruit Chews
+Chocolate Covered Nuts,Toffee,Chocolate-Covered Pretzels,Fudge,Peanut Butter Cups
+Rice Crispy Treats,Bonbons,Candy Necklace,Spicy Candy
+Bubblegum,Chocolate-Covered Fruit,Sugar-Free Candy,Chocolate Truffles,Whirly Pop
+Almond Joy,Swedish Fish,Chocolate Bar,Gummy Bears,Hard Candy
+Lollipops,Sour Candy,Licorice,Jelly Beans,Candy Corn
+Mints,Taffy,Caramel,Marshmallows,Cotton Candy
+Fruit Chews,Chocolate Covered Nuts,Toffee,Chocolate-Covered Pretzels
+Peanut Butter Cups,Rice Crispy Treats,Bonbons,Candy Necklace
+Chocolate Bar,Gummy Bears,Hard Candy,Lollipops,Sour Candy
+Licorice,Jelly Beans,Candy Corn,Mints,Taffy
+Caramel,Marshmallows,Cotton Candy,Fruit Chews,Chocolate Covered Nuts

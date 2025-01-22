@@ -1,0 +1,20 @@
+Apples,Bananas,Milk,Eggs,Chicken Breast,Cheese
+Bread,Eggs,Cheese,Yogurt,Orange Juice,Cereal
+Rice,Tomato Sauce,Yogurt,Cereal,Frozen Vegetables,Chips
+Carrots,Cereal,Ice Cream,Chocolate Bar,Pasta
+Chicken Breast,Peanut Butter,Lettuce,Honey
+Bananas,Bread,Tomato Sauce,Onions,Pasta,Fish
+Apples,Carrots,Pasta,Frozen Vegetables,Cheese,Rice
+Milk,Cheese,Orange Juice,Yogurt,Chocolate Bar
+Chocolate Bar,Spinach,Onions,Potatoes,Eggs,Fish
+Fish,Rice,Ground Beef,Yogurt,Frozen Vegetables,Peanut Butter
+Apples,Yogurt,Almonds,Ice Cream,Honey
+Bananas,Tomato Sauce,Cereal,Frozen Vegetables,Milk,Cheese
+Bread,Chicken Breast,Fish,Garlic,Chips,Peanut Butter
+Carrots,Rice,Cereal,Ice Cream,Orange Juice,Salsa
+Pasta,Frozen Vegetables,Cheese,Milk,Eggs,Chocolate Bar
+Tofu,Almonds,Honey,Pasta,Ground Beef,Spinach
+Eggs,Chicken Breast,Cheese,Yogurt,Spinach,Rice
+Apples,Orange Juice,Honey,Potatoes,Chips,Cereal
+Bananas,Spinach,Chocolate Bar,Ice Cream
+Bread,Pasta,Yogurt,Tomato Sauce,Chips,Frozen Vegetables

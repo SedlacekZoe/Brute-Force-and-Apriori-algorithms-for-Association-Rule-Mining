@@ -1,0 +1,20 @@
+Laptop,Smartphone,Headphones,Tablet,Printer
+Bluetooth Speaker,Desktop Computer,USB Flash Drive
+Wireless Mouse,Monitor,Camera,Gaming Console
+VR Headset,Home Router,Projector,Web Camera,Microphone
+Charging Station,Laptop,Smartwatch,Graphics Card
+Graphics Card,Motherboard,Power Bank
+Phone Case,Screen Protector,HDMI Cable,Gaming Chair
+Surge Protector,Laptop,Tablet,Headphones
+Bluetooth Speaker,Desktop Computer,External Hard Drive
+USB Flash Drive,Wireless Mouse,Monitor,Laptop
+Keyboard,Camera,Gaming Console,VR Headset
+Laptop,Smartphone,Headphones,Tablet,Charging Station
+Desktop Computer,USB Flash Drive,Wired Mouse
+Projector,Web Camera,Microphone,Power Bank
+Graphics Card,Motherboard,Monitor
+Phone Case,Screen Protector,Gaming Chair
+Surge Protector,Laptop,Tablet,Headphones
+Bluetooth Speaker,Desktop Computer,External Hard Drive
+Wireless Mouse,Monitor,Camera,Gaming Console
+VR Headset,Home Router,Projector,Web Camera
